@@ -1,4 +1,4 @@
 # example-project
 Git example
 
-I made a change.
+I made another change.
