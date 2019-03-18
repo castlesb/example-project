@@ -1,4 +1,6 @@
 # example-project
 Git example
 
-I made another change.
+Playing around.
+
+I made a change.
