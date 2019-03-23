@@ -9,5 +9,3 @@ km
 anotha one...
 
 hiiii
-
-hihihi
